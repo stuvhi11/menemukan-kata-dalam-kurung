@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\StudyCase\StudyCase\obj\Debug\StudyCase.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\StudyCase\StudyCase\obj\Debug\StudyCase.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\StudyCase\StudyCase\bin\Debug\StudyCase.exe.config
+C:\Users\LENOVO\source\repos\StudyCase\StudyCase\bin\Debug\StudyCase.exe
+C:\Users\LENOVO\source\repos\StudyCase\StudyCase\bin\Debug\StudyCase.pdb
+C:\Users\LENOVO\source\repos\StudyCase\StudyCase\obj\Debug\StudyCase.exe
+C:\Users\LENOVO\source\repos\StudyCase\StudyCase\obj\Debug\StudyCase.pdb
