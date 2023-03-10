@@ -1,2 +1,4 @@
 # menemukan-kata-dalam-kurung
-StudyCase
+**Membantu menampilkan kata dalam kalimat yang bertanda kurung ()**
+---
+
