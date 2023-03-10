@@ -3,10 +3,10 @@
 
 ### StudyCase1
 ---
-**Text**
+**Text**  
 Chatbot ini termasuk ke dalam Large Language Model (LLM), yaitu program komputer yang dapat mengenali, meringkas, menerjemahkan, memprediksi, dan menghasilkan teks  
 
-**Output**
+**Output** 
 LLM  
 
 ### StudyCase2
